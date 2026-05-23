@@ -76,7 +76,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 
 # Clone the repository
-git clone https://github.com/afroto/af-tool.git
+git clone https://github.com/gemygemy5544m-afk/spam.git
 
 # Enter project directory
 cd af-tool
