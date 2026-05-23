@@ -79,7 +79,7 @@ pkg install git python -y
 git clone https://github.com/gemygemy5544m-afk/spam.git
 
 # Enter project directory
-cd af-tool
+cd spam
 
 # Make installer executable
 chmod +x afroto.sh
