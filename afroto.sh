@@ -144,7 +144,7 @@ show_tool_info() {
             1) open_url "https://wa.me/201140184231" "Opening WhatsApp..." ;;
             2) open_url "https://youtube.com/@afroto" "Opening YouTube..." ;;
             3) open_url "https://afroto.com" "Opening Website..." ;;
-            4) open_url "https://t.me/afroto" "Opening Telegram..." ;;
+            4) open_url "https://t.me/afrotoxxx" "Opening Telegram..." ;;
             5) break ;;
             *) log_message "error" "Invalid!" ;;
         esac
